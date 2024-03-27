@@ -1,0 +1,11 @@
+framework module MMAVPlayerWithGoogleDAI {
+  umbrella header "MMAVPlayerWithGoogleDAI.h"
+  export *
+
+  module * { export * }
+}
+
+module MMAVPlayerWithGoogleDAI.Swift {
+  header "MMAVPlayerWithGoogleDAI-Swift.h"
+  requires objc
+}
