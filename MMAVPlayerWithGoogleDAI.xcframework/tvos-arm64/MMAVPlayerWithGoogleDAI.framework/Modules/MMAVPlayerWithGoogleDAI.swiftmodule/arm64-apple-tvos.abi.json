@@ -570,26 +570,6 @@
           },
           {
             "kind": "Function",
-            "name": "reportDeviceID",
-            "printedName": "reportDeviceID()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:23MMAVPlayerWithGoogleDAI26AVPlayerIntegrationWrapperC14reportDeviceIDyyF",
-            "mangledName": "$s23MMAVPlayerWithGoogleDAI26AVPlayerIntegrationWrapperC14reportDeviceIDyyF",
-            "moduleName": "MMAVPlayerWithGoogleDAI",
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
             "name": "reportAppData",
             "printedName": "reportAppData(appName:appVersion:)",
             "children": [
@@ -8952,1330 +8932,1330 @@
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 13000,
+      "offset": 13001,
       "length": 4,
       "value": "\"NA\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 13647,
+      "offset": 13648,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 14511,
+      "offset": 14512,
       "length": 46,
       "value": "\"Only CDN metric is overridable as of now ...\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 14809,
+      "offset": 14810,
       "length": 4,
       "value": "\"%s\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 16029,
+      "offset": 16030,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 16053,
+      "offset": 16054,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 16131,
+      "offset": 16132,
       "length": 7,
       "value": "\"Apple\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 17122,
+      "offset": 17123,
       "length": 6,
       "value": "\"tvOS\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 17344,
+      "offset": 17345,
       "length": 9,
       "value": "\"AppleTV\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 20155,
+      "offset": 20156,
       "length": 51,
       "value": "\"https:\/\/register.mediamelon.com\/mm-apis\/register\/\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 23432,
+      "offset": 23433,
       "length": 51,
       "value": "\"https:\/\/register.mediamelon.com\/mm-apis\/register\/\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 23663,
+      "offset": 23664,
       "length": 6,
       "value": "\"None\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 23695,
+      "offset": 23696,
       "length": 6,
       "value": "\"None\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 23733,
+      "offset": 23734,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 23765,
+      "offset": 23766,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 24221,
+      "offset": 24222,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 24735,
+      "offset": 24736,
       "length": 12,
       "value": "\"commentary\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 24785,
+      "offset": 24786,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 26105,
+      "offset": 26106,
       "length": 98,
       "value": "\"sessionInitializationCompleted - status \""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 26155,
+      "offset": 26156,
       "length": 11,
       "value": "\" description \""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 26202,
+      "offset": 26203,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 27739,
+      "offset": 27740,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 27819,
+      "offset": 27820,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 27886,
+      "offset": 27887,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 27977,
+      "offset": 27978,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 28505,
+      "offset": 28506,
       "length": 29,
       "value": "\"--- playbackDidReachEnd ---\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 28711,
+      "offset": 28712,
       "length": 37,
       "value": "\"--- playbackFailedToPlayTillEnd ---\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 28822,
+      "offset": 28823,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 29037,
+      "offset": 29038,
       "length": 103,
       "value": "\"--- Error occurred with message: \""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 29101,
+      "offset": 29102,
       "length": 1,
       "value": "\", error: \""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 29138,
+      "offset": 29139,
       "length": 1,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 29315,
+      "offset": 29316,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 29358,
+      "offset": 29359,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 29397,
+      "offset": 29398,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 29438,
+      "offset": 29439,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 29472,
+      "offset": 29473,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 29501,
+      "offset": 29502,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 29538,
+      "offset": 29539,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 29577,
+      "offset": 29578,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "FloatLiteral",
-      "offset": 29633,
+      "offset": 29634,
       "length": 4,
       "value": "-1.0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 29696,
+      "offset": 29697,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 29735,
+      "offset": 29736,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 29767,
+      "offset": 29768,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 29797,
+      "offset": 29798,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 29839,
+      "offset": 29840,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 29961,
+      "offset": 29962,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 30046,
+      "offset": 30047,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 30123,
+      "offset": 30124,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 30888,
+      "offset": 30889,
       "length": 19,
       "value": "\"*** createSession\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 31149,
+      "offset": 31150,
       "length": 17,
       "value": "\"*** initSession\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 31207,
+      "offset": 31208,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 31250,
+      "offset": 31251,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 31302,
+      "offset": 31303,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 31422,
+      "offset": 31423,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 31814,
+      "offset": 31815,
       "length": 35,
       "value": "\"!!! Error - assetInfo not set !!!\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 31919,
+      "offset": 31920,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 32765,
+      "offset": 32766,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 35605,
+      "offset": 35606,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 35639,
+      "offset": 35640,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 35770,
+      "offset": 35771,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 35813,
+      "offset": 35814,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 35945,
+      "offset": 35946,
       "length": 45,
       "value": "\"Initializing for \""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 35989,
+      "offset": 35990,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 37955,
+      "offset": 37956,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 38079,
+      "offset": 38080,
       "length": 45,
       "value": "\"resetSession \""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 38119,
+      "offset": 38120,
       "length": 3,
       "value": "\" ***\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 38447,
+      "offset": 38448,
       "length": 19,
       "value": "\"removeSession ***\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 38625,
+      "offset": 38626,
       "length": 59,
       "value": "\"!!! Error - continueStoppedSession failed, player not avl\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 38835,
+      "offset": 38836,
       "length": 63,
       "value": "\"!!! Error - continueStoppedSession failed, playerItem not avl\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 38959,
+      "offset": 38960,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 39273,
+      "offset": 39274,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 39583,
+      "offset": 39584,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 39696,
+      "offset": 39697,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 39934,
+      "offset": 39935,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 40080,
+      "offset": 40081,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 41402,
+      "offset": 41403,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "FloatLiteral",
-      "offset": 41534,
+      "offset": 41535,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 41599,
+      "offset": 41600,
       "length": 73,
       "value": "\"Duration of content is \""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 41665,
+      "offset": 41666,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 41671,
+      "offset": 41672,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 41727,
+      "offset": 41728,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 41859,
+      "offset": 41860,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 41909,
+      "offset": 41910,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 42042,
+      "offset": 42043,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 42193,
+      "offset": 42194,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "FloatLiteral",
-      "offset": 42306,
+      "offset": 42307,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 42368,
+      "offset": 42369,
       "length": 28,
       "value": "\"LATENCY: - Playback rate 0\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 42644,
+      "offset": 42645,
       "length": 34,
       "value": "\"LATENCY: - Playback rate \""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 42677,
+      "offset": 42678,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 42807,
+      "offset": 42808,
       "length": 24,
       "value": "\"--- playbackFailed ---\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 42859,
+      "offset": 42860,
       "length": 17,
       "value": "\"Content Not Set\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 43021,
+      "offset": 43022,
       "length": 35,
       "value": "\"Playback of \""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 43048,
+      "offset": 43049,
       "length": 6,
       "value": "\" Failed\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 43366,
+      "offset": 43367,
       "length": 50,
       "value": "\"--Process current item changed with the player--\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 43670,
+      "offset": 43671,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 47548,
+      "offset": 47549,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 47655,
+      "offset": 47656,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 48062,
+      "offset": 48063,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 48756,
+      "offset": 48757,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 48798,
+      "offset": 48799,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 48847,
+      "offset": 48848,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 48898,
+      "offset": 48899,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 48994,
+      "offset": 48995,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "FloatLiteral",
-      "offset": 49550,
+      "offset": 49551,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 50102,
+      "offset": 50103,
       "length": 73,
       "value": "\"Skipping Event, Pending \""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 50174,
+      "offset": 50175,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 50222,
+      "offset": 50223,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 50369,
+      "offset": 50370,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 50531,
+      "offset": 50532,
       "length": 77,
       "value": "\"ABRSWITCH: !isInitialBitrateReported \""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 50586,
+      "offset": 50587,
       "length": 2,
       "value": "\" => \""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 50607,
+      "offset": 50608,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 50794,
+      "offset": 50795,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "FloatLiteral",
-      "offset": 50868,
+      "offset": 50869,
       "length": 4,
       "value": "-1.0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 50989,
+      "offset": 50990,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 51181,
+      "offset": 51182,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "FloatLiteral",
-      "offset": 51619,
+      "offset": 51620,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 51678,
+      "offset": 51679,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 51875,
+      "offset": 51876,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 51947,
+      "offset": 51948,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 52029,
+      "offset": 52030,
       "length": 87,
       "value": "\"ABRSWITCH: !isInitialBitrateReported \""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 52089,
+      "offset": 52090,
       "length": 2,
       "value": "\" => \""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 52115,
+      "offset": 52116,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 52366,
+      "offset": 52367,
       "length": 58,
       "value": "\"ABRSWITCH: \""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 52400,
+      "offset": 52401,
       "length": 2,
       "value": "\" => \""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 52423,
+      "offset": 52424,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 53235,
+      "offset": 53236,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 53343,
+      "offset": 53344,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 53484,
+      "offset": 53485,
       "length": 77,
       "value": "\"ABRSWITCH: !isInitialBitrateReported \""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 53539,
+      "offset": 53540,
       "length": 2,
       "value": "\" => \""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 53560,
+      "offset": 53561,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 53731,
+      "offset": 53732,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "FloatLiteral",
-      "offset": 53797,
+      "offset": 53798,
       "length": 4,
       "value": "-1.0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 53894,
+      "offset": 53895,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 54065,
+      "offset": 54066,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 54753,
+      "offset": 54754,
       "length": 53,
       "value": "\"Total Err events \""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 54805,
+      "offset": 54806,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "Array",
-      "offset": 54850,
+      "offset": 54851,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 54946,
+      "offset": 54947,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 54988,
+      "offset": 54989,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 55037,
+      "offset": 55038,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 55088,
+      "offset": 55089,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 55186,
+      "offset": 55187,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 55424,
+      "offset": 55425,
       "length": 77,
       "value": "\"Skipping ERR Event, Pending \""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 55500,
+      "offset": 55501,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 55547,
+      "offset": 55548,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 55846,
+      "offset": 55847,
       "length": 3,
       "value": "\"=\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 56041,
+      "offset": 56042,
       "length": 3,
       "value": "\"=\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 56239,
+      "offset": 56240,
       "length": 3,
       "value": "\"=\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 56447,
+      "offset": 56448,
       "length": 3,
       "value": "\"=\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 56666,
+      "offset": 56667,
       "length": 3,
       "value": "\"=\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 56880,
+      "offset": 56881,
       "length": 3,
       "value": "\"=\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 57088,
+      "offset": 57089,
       "length": 3,
       "value": "\"=\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 57168,
+      "offset": 57169,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 57243,
+      "offset": 57244,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 57507,
+      "offset": 57508,
       "length": 3,
       "value": "\":\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 57949,
+      "offset": 57950,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 57962,
+      "offset": 57963,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 57985,
+      "offset": 57986,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 58224,
+      "offset": 58225,
       "length": 117,
       "value": "\" -- tick isPossibleSeek: playDelta [\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 58271,
+      "offset": 58272,
       "length": 4,
       "value": "\" msec] wallclkDelta [\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 58312,
+      "offset": 58313,
       "length": 4,
       "value": "\" msec] drift [\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 58334,
+      "offset": 58335,
       "length": 4,
       "value": "\" msec]\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 58452,
+      "offset": 58453,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 58482,
+      "offset": 58483,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 59182,
+      "offset": 59183,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 59260,
+      "offset": 59261,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 59323,
+      "offset": 59324,
       "length": 78,
       "value": "\" -- tick Periodic Check -- pos=\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 59376,
+      "offset": 59377,
       "length": 2,
       "value": "\" at=\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 59400,
+      "offset": 59401,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 59552,
+      "offset": 59553,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 59621,
+      "offset": 59622,
       "length": 70,
       "value": "\" -- tick observed rate \""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 59660,
+      "offset": 59661,
       "length": 6,
       "value": "\" player rate \""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 59687,
+      "offset": 59688,
       "length": 2,
       "value": "\" --\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 59731,
+      "offset": 59732,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 59757,
+      "offset": 59758,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 60327,
+      "offset": 60328,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 60397,
+      "offset": 60398,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 60709,
+      "offset": 60710,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 60786,
+      "offset": 60787,
       "length": 66,
       "value": "\" -- tick Forcing restart of session via Play .., Replay Session]\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 60965,
+      "offset": 60966,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 61492,
+      "offset": 61493,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "IntegerLiteral",
-      "offset": 61541,
+      "offset": 61542,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 61941,
+      "offset": 61942,
       "length": 155,
       "value": "\" -- tick process possibility of occurrence of seek \""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 62013,
+      "offset": 62014,
       "length": 1,
       "value": "\" - \""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 62044,
+      "offset": 62045,
       "length": 1,
       "value": "\" = \""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 62095,
+      "offset": 62096,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 62388,
+      "offset": 62389,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 62472,
+      "offset": 62473,
       "length": 56,
       "value": "\" -- tick Seek: Forcing restart of session via Seek ...\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 62844,
+      "offset": 62845,
       "length": 112,
       "value": "\" -- tick process possibility of occurrence of seek playhead drift \""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/IOS\/A&E\/IMA\/TVOS\/MMAVPlayerWithGoogleDAI-TVOS\/MMAVPlayerWithGoogleDAI\/AVPlayerWithGoogleIMA\/AVPlayerIntegrationWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 62955,
+      "offset": 62956,
       "length": 2,
       "value": "\"\""
     },

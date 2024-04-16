@@ -26,7 +26,6 @@ import os
   public func reportCustomMetadata(key: Swift.String!, value: Swift.String!)
   public func reportVideoQuality(videoQuality: Swift.String)
   public func reportDeviceMarketingName(deviceMarketingName: Swift.String)
-  public func reportDeviceID()
   public func reportAppData(appName: Swift.String, appVersion: Swift.String)
   public func enableLogTrace(logStTrace: Swift.Bool)
   public func reportError(error: Swift.String, playbackPosMilliSec: Swift.Int)

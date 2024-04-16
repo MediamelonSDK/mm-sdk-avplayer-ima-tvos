@@ -34,15 +34,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		BeYUqpfdQcQOtsMJY7uDd3k1+Ko=
+		jGX+uTKToFFt619sZXp7f5IGwkA=
 		</data>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
 		<data>
-		F1f5XOXhHQR0sIhqQHk8d/0s0VA=
+		7oGHWX2KY4nzUgeGHPXERteLSaU=
 		</data>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/arm64-apple-tvos-simulator.private.swiftinterface</key>
 		<data>
-		fAP/idQw9jDDhBmJpsh5rRpFcO0=
+		rhmdHZF8+bW86gx++JKqoQjoXDE=
 		</data>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
 		<data>
@@ -50,19 +50,19 @@
 		</data>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/arm64-apple-tvos-simulator.swiftinterface</key>
 		<data>
-		fAP/idQw9jDDhBmJpsh5rRpFcO0=
+		rhmdHZF8+bW86gx++JKqoQjoXDE=
 		</data>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		fpHFBYV+XT+Al0hlCC1UEFZlp1o=
+		/iZmTDTJre2uXdxqf3R/IaKOju8=
 		</data>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
 		<data>
-		F1f5XOXhHQR0sIhqQHk8d/0s0VA=
+		7oGHWX2KY4nzUgeGHPXERteLSaU=
 		</data>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/x86_64-apple-tvos-simulator.private.swiftinterface</key>
 		<data>
-		74JlFxwQkwx6QOWLQcyUWM7yCgc=
+		n+76bsYPddw0bm6Xqr0CRp/xXmI=
 		</data>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
 		<data>
@@ -70,15 +70,19 @@
 		</data>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/x86_64-apple-tvos-simulator.swiftinterface</key>
 		<data>
-		74JlFxwQkwx6QOWLQcyUWM7yCgc=
+		n+76bsYPddw0bm6Xqr0CRp/xXmI=
 		</data>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		k/QlNrO97EHZDki1EduU8K6dAOY=
+		8cnUUhvl7Zz5ETtnabo98z33lSs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		YkZTFAlYzWg+AiJCyQEeYJFb494=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		ccqpaK6MyMixdqLzK/+fxFCAwWQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -136,14 +140,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QBAEvL5pJJlGhQK1jY/ODuW26/aDr1VJ3NIsLfH16iI=
+			Tjp1gEvrkhRPG5W9XMD3wuWSKbhcaW4szFXjYdvUfRY=
 			</data>
 		</dict>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/arm64-apple-tvos-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tE3IdRSgww5tWSbwZ1ZTImNUe0paBQwlyiz2jay4pJ8=
+			oCbl6mNcNIo9dryZvZpwYFqjesYjsyOdKSarmy5c0kk=
 			</data>
 		</dict>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
@@ -157,28 +161,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tE3IdRSgww5tWSbwZ1ZTImNUe0paBQwlyiz2jay4pJ8=
+			oCbl6mNcNIo9dryZvZpwYFqjesYjsyOdKSarmy5c0kk=
 			</data>
 		</dict>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ec0J8Ln0sWNkdwybq3rFhjuyA/qBJtNkIIdjBN55DOQ=
+			wQVpMWrBhPMQUCfQvpRcCXLjA8kiZHmqPaNyS65hn4U=
 			</data>
 		</dict>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QBAEvL5pJJlGhQK1jY/ODuW26/aDr1VJ3NIsLfH16iI=
+			Tjp1gEvrkhRPG5W9XMD3wuWSKbhcaW4szFXjYdvUfRY=
 			</data>
 		</dict>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/x86_64-apple-tvos-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ypL56LdxDr5j7j5NUVCUU+8d07tZstiUe1J0pGV8uVE=
+			ii+L4AE4ANl38w2C1fBCCZ6xRbFtP7z1G3y0KkTpLbk=
 			</data>
 		</dict>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
@@ -192,14 +196,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ypL56LdxDr5j7j5NUVCUU+8d07tZstiUe1J0pGV8uVE=
+			ii+L4AE4ANl38w2C1fBCCZ6xRbFtP7z1G3y0KkTpLbk=
 			</data>
 		</dict>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PeivzWO58nIa/YZx6+xlDG2ctT3u+MaHibAroDaz6w0=
+			Hgkx1UJPs0nslLqZz+dOZfjf6yiQhqsoV0pnNXsPDr4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -207,6 +211,13 @@
 			<key>hash2</key>
 			<data>
 			ifdzdSAi+UclKCWfJSDlfetvY7p2EcCwgCQsnxmm6CU=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			thoP3b4DaDxvDA2ZB0fBNnXNttO7pojpApYyUkmlvV8=
 			</data>
 		</dict>
 	</dict>

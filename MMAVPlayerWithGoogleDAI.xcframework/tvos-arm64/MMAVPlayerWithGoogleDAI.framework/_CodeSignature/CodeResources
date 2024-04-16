@@ -10,7 +10,7 @@
 		</data>
 		<key>Frameworks/Pods_MMAVPlayerWithGoogleDAI.framework/Pods_MMAVPlayerWithGoogleDAI</key>
 		<data>
-		LJChJW+uir2IfCs8+2PzifCtXb0=
+		7uWstjzU9UYirVhJXouzp2LJnHg=
 		</data>
 		<key>Frameworks/Pods_MMAVPlayerWithGoogleDAI.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -34,15 +34,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		AKAsnbZOxqn1Xc/h1HCRRs2+KJg=
+		opoyQXHP1dHDHhr9mX2T06AYavM=
 		</data>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/arm64-apple-tvos.abi.json</key>
 		<data>
-		F1f5XOXhHQR0sIhqQHk8d/0s0VA=
+		7oGHWX2KY4nzUgeGHPXERteLSaU=
 		</data>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/arm64-apple-tvos.private.swiftinterface</key>
 		<data>
-		r4cjF1RTfqhZhxjlfWwsbyTNzFw=
+		JYI2yyRhwV45SJSZi+23SW4e94Y=
 		</data>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/arm64-apple-tvos.swiftdoc</key>
 		<data>
@@ -50,15 +50,19 @@
 		</data>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/arm64-apple-tvos.swiftinterface</key>
 		<data>
-		r4cjF1RTfqhZhxjlfWwsbyTNzFw=
+		JYI2yyRhwV45SJSZi+23SW4e94Y=
 		</data>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/arm64-apple-tvos.swiftmodule</key>
 		<data>
-		75LrBHiOck6+92JZ54Qmr9soJFg=
+		XszqNMvCQZVuk0rKew8Aut8dIeI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		YkZTFAlYzWg+AiJCyQEeYJFb494=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		ccqpaK6MyMixdqLzK/+fxFCAwWQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -74,7 +78,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wOc0zhBqwE9bZkkcE7GJ83eiR42w7XZxYBjF5zdIEPk=
+			7/FQ3zsHdEPQKmEkWZZxlDOx5ITx2fjARgJfC2kvhRk=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_MMAVPlayerWithGoogleDAI.framework/_CodeSignature/CodeResources</key>
@@ -116,14 +120,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QBAEvL5pJJlGhQK1jY/ODuW26/aDr1VJ3NIsLfH16iI=
+			Tjp1gEvrkhRPG5W9XMD3wuWSKbhcaW4szFXjYdvUfRY=
 			</data>
 		</dict>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/arm64-apple-tvos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ytBK2Bn7vOsPkywDt89lmXvP442M2kjTOwNw466JvQM=
+			8nDHTxUGWqRVuAZN/jID4hnLFR2kQmoOPOxWyEn7Jdk=
 			</data>
 		</dict>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/arm64-apple-tvos.swiftdoc</key>
@@ -137,14 +141,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ytBK2Bn7vOsPkywDt89lmXvP442M2kjTOwNw466JvQM=
+			8nDHTxUGWqRVuAZN/jID4hnLFR2kQmoOPOxWyEn7Jdk=
 			</data>
 		</dict>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/arm64-apple-tvos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MQMXbfBGzEZ5C0hbKoccR3JFFPrZLr6/tQHEStPkrEg=
+			JEslBaKsRo/QEmcq6wv0XOGiHmlLUpLXrcUj/mglCUY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -152,6 +156,13 @@
 			<key>hash2</key>
 			<data>
 			ifdzdSAi+UclKCWfJSDlfetvY7p2EcCwgCQsnxmm6CU=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			thoP3b4DaDxvDA2ZB0fBNnXNttO7pojpApYyUkmlvV8=
 			</data>
 		</dict>
 	</dict>
