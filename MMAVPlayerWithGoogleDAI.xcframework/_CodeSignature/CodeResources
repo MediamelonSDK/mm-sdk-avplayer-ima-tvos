@@ -4,17 +4,17 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>tvos-arm64/MMAVPlayerWithGoogleDAI.framework/Frameworks/Pods_MMAVPlayerWithGoogleDAI.framework/Info.plist</key>
+		<key>.DS_Store</key>
 		<data>
-		vpyukFx+C2jMjEhoXS03niqusOA=
+		18CKi0u6MfOYsN10qDZMIFRNCes=
 		</data>
-		<key>tvos-arm64/MMAVPlayerWithGoogleDAI.framework/Frameworks/Pods_MMAVPlayerWithGoogleDAI.framework/Pods_MMAVPlayerWithGoogleDAI</key>
+		<key>tvos-arm64/.DS_Store</key>
 		<data>
-		7uWstjzU9UYirVhJXouzp2LJnHg=
+		4nLdW9XouJQmeA4A2bQtzD2SMTY=
 		</data>
-		<key>tvos-arm64/MMAVPlayerWithGoogleDAI.framework/Frameworks/Pods_MMAVPlayerWithGoogleDAI.framework/_CodeSignature/CodeResources</key>
+		<key>tvos-arm64/MMAVPlayerWithGoogleDAI.framework/.DS_Store</key>
 		<data>
-		eWh9H1uznd5wHBMWr5z7IiUJJuA=
+		19/J0uDkHRMF8ttRaWoAL8VEkVc=
 		</data>
 		<key>tvos-arm64/MMAVPlayerWithGoogleDAI.framework/Headers/MMAVPlayerWithGoogleDAI-Swift.h</key>
 		<data>
@@ -40,6 +40,10 @@
 		<data>
 		HuxwBmCxQbVIz2PXu6oxqbyvS/o=
 		</data>
+		<key>tvos-arm64/MMAVPlayerWithGoogleDAI.framework/Modules/.DS_Store</key>
+		<data>
+		XdY/t31QK2TotcjmkKfxq3YhUSI=
+		</data>
 		<key>tvos-arm64/MMAVPlayerWithGoogleDAI.framework/Modules/MMAVPlayerWithGoogleDAI.swiftmodule/arm64-apple-tvos.abi.json</key>
 		<data>
 		7oGHWX2KY4nzUgeGHPXERteLSaU=
@@ -64,21 +68,13 @@
 		<data>
 		ccqpaK6MyMixdqLzK/+fxFCAwWQ=
 		</data>
-		<key>tvos-arm64/MMAVPlayerWithGoogleDAI.framework/_CodeSignature/CodeResources</key>
+		<key>tvos-arm64_x86_64-simulator/.DS_Store</key>
 		<data>
-		eILdEgaknuq0kc7IBHLbSeTlo2g=
+		4nLdW9XouJQmeA4A2bQtzD2SMTY=
 		</data>
-		<key>tvos-arm64_x86_64-simulator/MMAVPlayerWithGoogleDAI.framework/Frameworks/Pods_MMAVPlayerWithGoogleDAI.framework/Info.plist</key>
+		<key>tvos-arm64_x86_64-simulator/MMAVPlayerWithGoogleDAI.framework/.DS_Store</key>
 		<data>
-		vpyukFx+C2jMjEhoXS03niqusOA=
-		</data>
-		<key>tvos-arm64_x86_64-simulator/MMAVPlayerWithGoogleDAI.framework/Frameworks/Pods_MMAVPlayerWithGoogleDAI.framework/Pods_MMAVPlayerWithGoogleDAI</key>
-		<data>
-		oMlf7qSX78jjRgN5Kp13QPA6aiw=
-		</data>
-		<key>tvos-arm64_x86_64-simulator/MMAVPlayerWithGoogleDAI.framework/Frameworks/Pods_MMAVPlayerWithGoogleDAI.framework/_CodeSignature/CodeResources</key>
-		<data>
-		eWh9H1uznd5wHBMWr5z7IiUJJuA=
+		DSuU+tn08h7LjEYN906CvvPOTCI=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/MMAVPlayerWithGoogleDAI.framework/Headers/MMAVPlayerWithGoogleDAI-Swift.h</key>
 		<data>
@@ -103,6 +99,10 @@
 		<key>tvos-arm64_x86_64-simulator/MMAVPlayerWithGoogleDAI.framework/MMAVPlayerWithGoogleDAI</key>
 		<data>
 		IK9Y+fLfU6Pmkas57s4munhBOw4=
+		</data>
+		<key>tvos-arm64_x86_64-simulator/MMAVPlayerWithGoogleDAI.framework/Modules/.DS_Store</key>
+		<data>
+		XdY/t31QK2TotcjmkKfxq3YhUSI=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/MMAVPlayerWithGoogleDAI.framework/Modules/MMAVPlayerWithGoogleDAI.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
 		<data>
@@ -144,46 +144,9 @@
 		<data>
 		ccqpaK6MyMixdqLzK/+fxFCAwWQ=
 		</data>
-		<key>tvos-arm64_x86_64-simulator/MMAVPlayerWithGoogleDAI.framework/_CodeSignature/CodeResources</key>
-		<data>
-		qeYI+oh/ZpZvcAD9VMtaNQTJdqc=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>tvos-arm64/MMAVPlayerWithGoogleDAI.framework/Frameworks/Pods_MMAVPlayerWithGoogleDAI.framework/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vpyukFx+C2jMjEhoXS03niqusOA=
-			</data>
-			<key>hash2</key>
-			<data>
-			UsxI3awOB7c2nR8zex4vd/L6weOSTlun515i1mly04k=
-			</data>
-		</dict>
-		<key>tvos-arm64/MMAVPlayerWithGoogleDAI.framework/Frameworks/Pods_MMAVPlayerWithGoogleDAI.framework/Pods_MMAVPlayerWithGoogleDAI</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			7uWstjzU9UYirVhJXouzp2LJnHg=
-			</data>
-			<key>hash2</key>
-			<data>
-			7/FQ3zsHdEPQKmEkWZZxlDOx5ITx2fjARgJfC2kvhRk=
-			</data>
-		</dict>
-		<key>tvos-arm64/MMAVPlayerWithGoogleDAI.framework/Frameworks/Pods_MMAVPlayerWithGoogleDAI.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			eWh9H1uznd5wHBMWr5z7IiUJJuA=
-			</data>
-			<key>hash2</key>
-			<data>
-			nTcfQB5hWgIJxFmpTzKprC3mq1Bb8UXu/APpZpw9Zzg=
-			</data>
-		</dict>
 		<key>tvos-arm64/MMAVPlayerWithGoogleDAI.framework/Headers/MMAVPlayerWithGoogleDAI-Swift.h</key>
 		<dict>
 			<key>hash</key>
@@ -314,50 +277,6 @@
 			<key>hash2</key>
 			<data>
 			thoP3b4DaDxvDA2ZB0fBNnXNttO7pojpApYyUkmlvV8=
-			</data>
-		</dict>
-		<key>tvos-arm64/MMAVPlayerWithGoogleDAI.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			eILdEgaknuq0kc7IBHLbSeTlo2g=
-			</data>
-			<key>hash2</key>
-			<data>
-			2WJge/mP5TamaaAbC5Ltwv7SmExeCVk8sI95P0sYExs=
-			</data>
-		</dict>
-		<key>tvos-arm64_x86_64-simulator/MMAVPlayerWithGoogleDAI.framework/Frameworks/Pods_MMAVPlayerWithGoogleDAI.framework/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vpyukFx+C2jMjEhoXS03niqusOA=
-			</data>
-			<key>hash2</key>
-			<data>
-			UsxI3awOB7c2nR8zex4vd/L6weOSTlun515i1mly04k=
-			</data>
-		</dict>
-		<key>tvos-arm64_x86_64-simulator/MMAVPlayerWithGoogleDAI.framework/Frameworks/Pods_MMAVPlayerWithGoogleDAI.framework/Pods_MMAVPlayerWithGoogleDAI</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			oMlf7qSX78jjRgN5Kp13QPA6aiw=
-			</data>
-			<key>hash2</key>
-			<data>
-			mMEuTVZLQ8n4dztR6wrgsWLCCM5eVnKtnCppKxOGuFg=
-			</data>
-		</dict>
-		<key>tvos-arm64_x86_64-simulator/MMAVPlayerWithGoogleDAI.framework/Frameworks/Pods_MMAVPlayerWithGoogleDAI.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			eWh9H1uznd5wHBMWr5z7IiUJJuA=
-			</data>
-			<key>hash2</key>
-			<data>
-			nTcfQB5hWgIJxFmpTzKprC3mq1Bb8UXu/APpZpw9Zzg=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/MMAVPlayerWithGoogleDAI.framework/Headers/MMAVPlayerWithGoogleDAI-Swift.h</key>
@@ -534,17 +453,6 @@
 			<key>hash2</key>
 			<data>
 			thoP3b4DaDxvDA2ZB0fBNnXNttO7pojpApYyUkmlvV8=
-			</data>
-		</dict>
-		<key>tvos-arm64_x86_64-simulator/MMAVPlayerWithGoogleDAI.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			qeYI+oh/ZpZvcAD9VMtaNQTJdqc=
-			</data>
-			<key>hash2</key>
-			<data>
-			0ZCgYRiTF3IJV7xZ/k2lb0wNRvdwcwZhdQy600WqC1E=
 			</data>
 		</dict>
 	</dict>
